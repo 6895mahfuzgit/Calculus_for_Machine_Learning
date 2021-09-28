@@ -5,15 +5,6 @@ Created on Tue Sep 28 15:42:38 2021
 @author: Mahfuz_Shazol
 """
 
-
-
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 28 02:15:18 2021
-
-@author: Mahfuz_Shazol
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 
